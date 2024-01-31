@@ -203,6 +203,6 @@
             "00099.parquet"
         ],
         "date": 1706722721,
-        "ack": false
+        "ack": true
     }
 }
